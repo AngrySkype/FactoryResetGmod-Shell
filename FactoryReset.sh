@@ -37,7 +37,7 @@ rm "./garrysmod/cl.db"
 rm "./garrysmod/sv.db"
 rm "./garrysmod/mn.db"
 
-echo "[6/6] Remove Lua/Workshop Cache"
+echo "[6/6] Removing Lua/Workshop Cache"
 rm -rf "./garrysmod/cache/"
 
 echo "Now go on steam -> Properties -> Installed Files -> Verify integrity of games files."
